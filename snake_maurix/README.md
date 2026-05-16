@@ -62,7 +62,7 @@ python snake.py
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/mis-juegos.git
+git clone https://github.com/maurixmystic/mis-juegos.git
 cd mis-juegos
 
 # Para el Snake Python, instalar dependencia
